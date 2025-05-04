@@ -1,5 +1,5 @@
 terraform {
-  source = "Terraform/ec2/dev/"
+  source = "ec2/dev/"
 }
 
 inputs = {
