@@ -1,5 +1,5 @@
 terraform {
-  source = "../Ram-Examples"
+  source = "../dev"
 }
 
 inputs = {
